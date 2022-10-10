@@ -1,0 +1,6 @@
+FastAPI
+sklearn
+pandas
+numpy
+matplotlib
+
